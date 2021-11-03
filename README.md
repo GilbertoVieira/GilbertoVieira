@@ -5,7 +5,7 @@
     . https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white<br>
     . https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white<br>
     . https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white<br>
-    . https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E<br>
+    . https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E<br><br>
 
 - Atualmente estou desenvolvendo os seguintes projetos: 💻<br>
 
@@ -13,7 +13,7 @@
 <b>eDOC:<b> https://github.com/GilbertoVieira/eDOC<br>
 <br>
 ------------------------------------
-<br>
+<br><br>
  <b>Obrigado pela visita!<b><br>
  <b>Abaixo as minhas redes e meu contato.<b>
   
@@ -22,6 +22,7 @@
 <code><img height= "20"src= https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white></code><br>
 <code><img height= "20"src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></code><br>
 <code><img height= "20"src= https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white></code><br>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GilbertoVieira)]
 
 
 
