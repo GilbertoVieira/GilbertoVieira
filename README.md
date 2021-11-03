@@ -1,4 +1,9 @@
-### Bem-Vindo (a)! 👋
+### Olá, me chamo Gilberto. Bem-Vindo (a) ao meu Portfólio! 👋
+
+------------------------------------
+
+ - Sou estudande de C#, HTML, CSS e Javascript. 👨‍🎓
+ - 
 
 <!--
 **GilbertoVieira/GilbertoVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
