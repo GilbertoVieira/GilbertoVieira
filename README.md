@@ -2,22 +2,22 @@
 
 ------------------------------------
 
- - Sou estudante das seguintes linguagens: 👨‍🎓
-    . C#
-    . HTML
-    . CSS
-    . Javascript
+ - Sou estudante das seguintes linguagens: 👨‍🎓<br>
+    . C#<br>
+    . HTML<br>
+    . CSS<br>
+    . Javascript<br>
 
 ------------------------------------
 
-- Atualmente estou desenvolvendo os seguintes projetos: 💻
+- Atualmente estou desenvolvendo os seguintes projetos: 💻<br>
 
-<b>FacilitaImplantação:<b> https://github.com/EvandroR2/FacilitaImplanta-o
-<b>eDOC:<b> https://github.com/GilbertoVieira/eDOC
+<b>FacilitaImplantação:<b> https://github.com/EvandroR2/FacilitaImplanta-o<br>
+<b>eDOC:<b> https://github.com/GilbertoVieira/eDOC<br>
 
 ------------------------------------
 
- <b>Me coloco a disposição para ajuda!
+ <b>Me coloco a disposição para ajuda!<b><br>
  
 <!--
 **GilbertoVieira/GilbertoVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
