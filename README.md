@@ -21,4 +21,4 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/gilbertvieirarj)](https://twitter.com/gilbertvieirarj)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gilbertorodvieirap/)](https://www.linkedin.com/in/gilbertorodvieirap/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/GilbertoVieira)](https://github.com/GilbertoVieira)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/@gilbertovieirarj)](https://t.me/@gilbertovieirarj)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://telegram.me/gilbertovieirarj)](https://telegram.me/gilbertovieirarj)
