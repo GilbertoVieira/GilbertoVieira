@@ -1,5 +1,5 @@
-<b>### Olá, me chamo Gilberto. Bem-Vindo (a) ao meu Portfólio! 👋</b>
-
+<b>### Olá, me chamo Gilberto.👋</b><br>
+<b>Bem-Vindo(a) ao meu Portfólio!:journal</b></b>
 
  - Sou estudante das seguintes linguagens: 👨‍🎓<br>
     . https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white<br>
