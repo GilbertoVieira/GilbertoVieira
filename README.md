@@ -9,8 +9,8 @@
 
 - Atualmente estou desenvolvendo os seguintes projetos: 💻<br>
 
-<b>FacilitaImplantação:<b> https://github.com/EvandroR2/FacilitaImplanta-o</b><br>
-<b>eDOC:<b> https://github.com/GilbertoVieira/eDOC</b><br>
+<b>FacilitaImplantação:</b><br>https://github.com/EvandroR2/FacilitaImplanta-o<br><br>
+<b>eDOC:</b><br>https://github.com/GilbertoVieira/eDOC</b><br>
 <br>
 ------------------------------------
 <br><br>
