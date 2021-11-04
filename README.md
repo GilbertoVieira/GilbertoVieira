@@ -1,4 +1,4 @@
-<h3>### Olá, me chamo Gilberto. Bem-Vindo (a) ao meu Portfólio! 👋</h3>
+<b>### Olá, me chamo Gilberto. Bem-Vindo (a) ao meu Portfólio! 👋</b>
 
 
  - Sou estudante das seguintes linguagens: 👨‍🎓<br>
@@ -9,13 +9,13 @@
 
 - Atualmente estou desenvolvendo os seguintes projetos: 💻<br>
 
-<b>FacilitaImplantação:<b> https://github.com/EvandroR2/FacilitaImplanta-o<br>
-<b>eDOC:<b> https://github.com/GilbertoVieira/eDOC<br>
+<b>FacilitaImplantação:<b> https://github.com/EvandroR2/FacilitaImplanta-o</b><br>
+<b>eDOC:<b> https://github.com/GilbertoVieira/eDOC</b><br>
 <br>
 ------------------------------------
 <br><br>
- <b>Obrigado pela visita!<b><br>
- <b>Abaixo as minhas redes e meu contato.<b>
+ <b>Obrigado pela visita!</b><br>
+ <b>Abaixo meus contatos.</b>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gilbertovieira.rj@gmail.com)](mailto:gilbertovieira.rj@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/gilbertvieirarj)](https://twitter.com/gilbertvieirarj)
