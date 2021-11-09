@@ -10,7 +10,8 @@
 <b>💻 Atualmente estou desenvolvendo os seguintes projetos:</b><br>
 
 - FacilitaImplantação:<br>https://github.com/EvandroR2/FacilitaImplanta-o<br>
-- eDOC:<br>https://github.com/GilbertoVieira/eDOC</b><br><br>
+- eDOC:<br>https://github.com/GilbertoVieira/eDOC<br>
+- Cadastro de Cliente:<br>https://github.com/GilbertoVieira/CadastroCliente<br><br>
 
 ------------------------------------
 <br>
